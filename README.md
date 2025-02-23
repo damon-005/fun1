@@ -1,2 +1,2 @@
 # fun1
-day 6
+day 7
